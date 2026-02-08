@@ -29,7 +29,7 @@ gatekeeper/
 │   └── report.py           # Generates daily reports
 └── data/
 │    └── logs/              # Stores monitor, alert, audit logs and reports
-│    └── policies.json
+│    └── policy.json
 └── documents/
      └── screenshots/
      └── gatekeepr ppt
@@ -67,7 +67,7 @@ Typical workflow:
 Graceful exit:
 - Press `Ctrl+C` → Gatekeeper shuts down cleanly.  
 
-For new device, it blocks automatically. take vendor ID, product ID and add it in policies.json
+For new device, it blocks automatically. take vendor ID, product ID and add it in policy.json
 
 ---
 
