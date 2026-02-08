@@ -1,0 +1,12 @@
+{
+    "allowlist": [
+        "1234:abcd",
+        "058f:6387"
+        
+    ],
+    "blocklist": [
+        "9999:ffff"
+    ],
+    "serial_allowlist": [],
+    "serial_blocklist": []
+}
