@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# ---- Virtual Environments ----
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# ---- Logs & Reports ----
+data/logs/
+data/reports/
+*.log
+*.tmp
+
+# ---- OS / Editor Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# ---- IDE / Project Settings ----
+.vscode/
+.idea/
+*.iml
+
+# ---- Build / Packaging ----
+build/
+dist/
+*.spec
